@@ -1,9 +1,9 @@
-# React TypeScript Starter Pack
+# React Todo App 
+## Project Description
+React Todo App with API is a full-featured task management application built with React and TypeScript. 
+## Technologies Used
+- React, Typescript
+- SCSS
+## Links
+Live Preview: [Todo App](https://shelyaa.github.io/to-do-app/)
 
-To use this template click `Use this template`
-
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
