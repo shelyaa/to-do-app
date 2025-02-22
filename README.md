@@ -1,6 +1,6 @@
 # React Todo App 
 ## Project Description
-React Todo App with API is a full-featured task management application built with React and TypeScript. 
+React Todo App is a task management application built with React and TypeScript.
 ## Technologies Used
 - React, Typescript
 - SCSS
