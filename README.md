@@ -1,4 +1,4 @@
-# React Todo App 
+# React Todo App 📝
 ## Project Description
 React Todo App is a task management application built with **React** and **TypeScript**. It provides a simple and intuitive interface for managing daily tasks.
 ## Technologies Used
